@@ -1,3 +1,10 @@
 fastapi
 uvicorn
 gunicorn
+langchain
+faiss-cpu
+sentence-transformers
+google-generativeai
+pdfplumber
+python-dotenv
+python-multipart
